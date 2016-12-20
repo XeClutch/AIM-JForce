@@ -1,0 +1,9 @@
+c:\users\s7clutch\documents\visual studio 2015\Projects\AIM JForce\AIM JForce\bin\Debug\AIM JForce.exe.config
+c:\users\s7clutch\documents\visual studio 2015\Projects\AIM JForce\AIM JForce\bin\Debug\AIM JForce.exe
+c:\users\s7clutch\documents\visual studio 2015\Projects\AIM JForce\AIM JForce\bin\Debug\AIM JForce.pdb
+c:\users\s7clutch\documents\visual studio 2015\Projects\AIM JForce\AIM JForce\obj\Debug\AIM JForce.csprojResolveAssemblyReference.cache
+c:\users\s7clutch\documents\visual studio 2015\Projects\AIM JForce\AIM JForce\obj\Debug\AIM_JForce.frmMain.resources
+c:\users\s7clutch\documents\visual studio 2015\Projects\AIM JForce\AIM JForce\obj\Debug\AIM_JForce.Properties.Resources.resources
+c:\users\s7clutch\documents\visual studio 2015\Projects\AIM JForce\AIM JForce\obj\Debug\AIM JForce.csproj.GenerateResource.Cache
+c:\users\s7clutch\documents\visual studio 2015\Projects\AIM JForce\AIM JForce\obj\Debug\AIM JForce.exe
+c:\users\s7clutch\documents\visual studio 2015\Projects\AIM JForce\AIM JForce\obj\Debug\AIM JForce.pdb
